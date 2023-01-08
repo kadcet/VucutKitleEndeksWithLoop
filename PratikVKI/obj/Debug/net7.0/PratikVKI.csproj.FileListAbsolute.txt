@@ -1,0 +1,15 @@
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKI\PratikVKI\bin\Debug\net7.0\PratikVKI.exe
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKI\PratikVKI\bin\Debug\net7.0\PratikVKI.deps.json
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKI\PratikVKI\bin\Debug\net7.0\PratikVKI.runtimeconfig.json
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKI\PratikVKI\bin\Debug\net7.0\PratikVKI.dll
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKI\PratikVKI\bin\Debug\net7.0\PratikVKI.pdb
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKI\PratikVKI\obj\Debug\net7.0\PratikVKI.csproj.AssemblyReference.cache
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKI\PratikVKI\obj\Debug\net7.0\PratikVKI.GeneratedMSBuildEditorConfig.editorconfig
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKI\PratikVKI\obj\Debug\net7.0\PratikVKI.AssemblyInfoInputs.cache
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKI\PratikVKI\obj\Debug\net7.0\PratikVKI.AssemblyInfo.cs
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKI\PratikVKI\obj\Debug\net7.0\PratikVKI.csproj.CoreCompileInputs.cache
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKI\PratikVKI\obj\Debug\net7.0\PratikVKI.dll
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKI\PratikVKI\obj\Debug\net7.0\refint\PratikVKI.dll
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKI\PratikVKI\obj\Debug\net7.0\PratikVKI.pdb
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKI\PratikVKI\obj\Debug\net7.0\PratikVKI.genruntimeconfig.cache
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKI\PratikVKI\obj\Debug\net7.0\ref\PratikVKI.dll
